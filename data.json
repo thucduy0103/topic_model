@@ -1,5 +1,4 @@
-﻿{
-    "savedrecs": [
+﻿[
         {
             "Publication Type": "C",
             "Authors": "Mathur, L; Spitale, M; Xi, H; Li, JY; Mataric, MJ",
@@ -10659,4 +10658,3 @@
             "UT (Unique WOS ID)": "WOS:000209271200008"
         }
     ]
-}
